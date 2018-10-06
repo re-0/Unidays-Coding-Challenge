@@ -1,0 +1,11 @@
+/home/regi/Schreibtisch/C#/UnidaysChallenge/bin/Debug/netcoreapp2.1/UnidaysChallenge.deps.json
+/home/regi/Schreibtisch/C#/UnidaysChallenge/bin/Debug/netcoreapp2.1/UnidaysChallenge.runtimeconfig.json
+/home/regi/Schreibtisch/C#/UnidaysChallenge/bin/Debug/netcoreapp2.1/UnidaysChallenge.runtimeconfig.dev.json
+/home/regi/Schreibtisch/C#/UnidaysChallenge/bin/Debug/netcoreapp2.1/UnidaysChallenge.dll
+/home/regi/Schreibtisch/C#/UnidaysChallenge/bin/Debug/netcoreapp2.1/UnidaysChallenge.pdb
+/home/regi/Schreibtisch/C#/UnidaysChallenge/obj/Debug/netcoreapp2.1/UnidaysChallenge.csprojAssemblyReference.cache
+/home/regi/Schreibtisch/C#/UnidaysChallenge/obj/Debug/netcoreapp2.1/UnidaysChallenge.csproj.CoreCompileInputs.cache
+/home/regi/Schreibtisch/C#/UnidaysChallenge/obj/Debug/netcoreapp2.1/UnidaysChallenge.AssemblyInfoInputs.cache
+/home/regi/Schreibtisch/C#/UnidaysChallenge/obj/Debug/netcoreapp2.1/UnidaysChallenge.AssemblyInfo.cs
+/home/regi/Schreibtisch/C#/UnidaysChallenge/obj/Debug/netcoreapp2.1/UnidaysChallenge.dll
+/home/regi/Schreibtisch/C#/UnidaysChallenge/obj/Debug/netcoreapp2.1/UnidaysChallenge.pdb
