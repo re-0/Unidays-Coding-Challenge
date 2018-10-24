@@ -46,6 +46,6 @@ If the shopping cart value is below £50.-, £7.- shipping fee will be added aut
 ---
 
 ## Development Approach
-For the most part, development was quite easy. All I had to do was to reuse some of my already existing code and rewrite it in such a way that it works with `List<T>` rather than an SQLite database file. In order to implement the nexessary algorithms, I had to learn a bit about **LINQ** in order to count duplicates in a `List<T>`. Next, I created some functions/methods that analyze the total quantity of each item and return the total cost for each item after applying the discount. If the quantity is `0`, a total cost of zero (`0`) will be returned.
+For the most part, development was quite easy. All I had to do was to reuse some of my already existing code and rewrite it in such a way that it works with `List<T>` rather than an SQLite database file. In order to implement the necessary algorithms, I had to learn a bit about **LINQ** in order to count duplicates in a `List<T>`. Next, I created some functions/methods that analyze the total quantity of each item and return the total cost for each item after applying the discount. If the quantity is `0`, a total cost of zero (`0`) will be returned.
 
 While there is still some room for code-optimization in regards to readability and possibility computational speed, I decided against doing anything of the sort given that this is only a basic coding challenge and people are probably not expected to create a full-fledged enterprise solition with DB access, etc.
